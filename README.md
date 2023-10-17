@@ -12,6 +12,8 @@
 <p1><b>LIFE SYSTEM</b> reduces life by 1 everytime the player gets hit by monster.</p1>
 <br></br>
 <p1>If <b>LIFE</b> reaches 0, game will freeze and game over screen will be shown up.</p1>
+<br></br>
+<p1>If <b>LIFE</b> Boss gets defeated, game will freeze and game win screen will be shown up.</p1>
 
 <h2>Game Mechanic</h2>
 <p1>Player needs to survive from 8 waves of enemies and defeat the legendary Count Dracula.</p1>
